@@ -1,2 +1,2 @@
-# mybashcedge.github.io
+# mybashcedge
 my bashcortostan cedge
